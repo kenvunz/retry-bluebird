@@ -21,7 +21,7 @@
     "url": "https://github.com/bcauldwell/retry-bluebird/issues"
   },
   "homepage": "https://github.com/bcauldwell/retry-bluebird",
-  "dependencies": {
-    "bluebird": "2.9.x"
+  "peerDependencies": {
+    "bluebird": ">=2.9.x"
   }
 }
